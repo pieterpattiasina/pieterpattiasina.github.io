@@ -1,0 +1,64 @@
+.navbar-background-hijau{
+	background-color: rgb(22,118,93);
+	border-radius: 50px 50px 0px 50px;
+	position: absolute;
+	top: 5%;
+	right: 15%;
+	padding: 20px;
+	width: 40%;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+  display: inline;
+  padding: 10px;
+}
+
+.divputih{
+	background-color: white;
+	border-radius: 0px 0px 0px 50px;
+}
+
+.div-backgorund-putih{
+	background-color: white;
+}
+
+.divhijau{
+	background-color: rgb(22,118,93);
+	border-radius: 0px 0px 0px 50px;
+}
+
+.div-backgorund-hijau{
+	background-color: rgb(22,118,93);
+	z-index: -1;
+}
+
+.divkuning{
+	background-color: #fbae17;
+}
+
+.div-backgorund-kuning{
+	background-color: #fbae17;
+	z-index: -1;
+}
+
+.content-fit{
+	border-radius: 0px 0px 0px 50px;
+}
+
+.fontputih{
+	color: white;
+}
+
+.fonthijau{
+	color: rgb(22,118,93);
+}
+
+.fontkuning{
+	color: #fbae17;
+}
